@@ -5,6 +5,8 @@ Sou programador Front-End, atualmente criando e aprimorando pequenos projetos co
 - 💚 Aluno DevClub/>
 - 🌱 Estudando JavaScript
 - ⚡ Aliado - Aliança Divergente
+- <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eujhonfig1&show_icons=true&theme=transparent)
 <!--
 **eujhonfig1/eujhonfig1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
