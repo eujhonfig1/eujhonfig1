@@ -3,10 +3,11 @@ Sou programador Front-End, atualmente criando e aprimorando pequenos projetos co
 <br><br>
 - <img width="22px" src="https://static.vecteezy.com/system/resources/previews/011/356/760/non_2x/pair-of-gold-wedding-rings-png.png" alt="Aliança-de-compromisso" /> Casado
 - 💚 Aluno DevClub/>
-- 🌱 Estudando JavaScript
+  - 🌱 Estudando JavaScript
 - ⚡ Aliado - Aliança Divergente
-- <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eujhonfig1&show_icons=true&theme=transparent)
+- 
+  <br>
+:tea: Vamos nos conectar?
 <!--
 **eujhonfig1/eujhonfig1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
